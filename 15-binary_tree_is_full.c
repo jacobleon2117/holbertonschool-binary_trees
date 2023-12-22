@@ -3,7 +3,7 @@
 
 /**
  * binary_tree_is_full - determines whether a tree is full or not
- * @tree: the tree being measured
+ * @tree: tree being measured
  *
  * Return: 1 if the tree is full, 0 otherwise
 */
