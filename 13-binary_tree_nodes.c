@@ -2,10 +2,10 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_nodes - determines the number of nodes of a binary tree
- * @tree: the tree being measured
+ * binary_tree_nodes - number of nodes of a binary tree
+ * @tree: tree being measured
  *
- * Return: the number of nodes of the tree. Defaults to 0 if tree is NULL
+ * Return: number of nodes of the tree. Defaults to 0 if tree is NULL
 */
 
 size_t binary_tree_nodes(const binary_tree_t *tree)
