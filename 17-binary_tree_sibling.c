@@ -2,10 +2,10 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_sibling - finds the sibling of a node
- * @node: the node whose sibling the function finds
+ * binary_tree_sibling - the sibling of a node
+ * @node: node whose sibling the function finds
  *
- * Return: a pointer to the sibling
+ * Return: pointer to the sibling
 */
 
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
