@@ -4,7 +4,7 @@
 
 /**
  * binary_tree_is_perfect - determines whether a tree is perfect or not
- * @tree: the tree being measured
+ * @tree: tree being measured
  *
  * Return: 1 if the tree is perfect, 0 otherwise
 */
